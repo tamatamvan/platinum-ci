@@ -1,5 +1,5 @@
 Arguments: 
-  /Users/mrtmvn/.nvm/versions/node/v9.8.0/bin/node /Users/mrtmvn/.nvm/versions/node/v9.8.0/bin/yarn test
+  /Users/mrtmvn/.nvm/versions/node/v9.8.0/bin/node /Users/mrtmvn/.nvm/versions/node/v9.8.0/bin/yarn start
 
 PATH: 
   /Users/mrtmvn/google-cloud-sdk/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/Users/mrtmvn/google-cloud-sdk/bin:/Users/mrtmvn/.nvm/versions/node/v9.8.0/bin:/Users/mrtmvn/.composer/vendor/bin:/Users/mrtmvn/.composer/vendor/bin
@@ -914,7 +914,7 @@ Trace:
   Error: Command failed.
   Exit code: 1
   Command: sh
-  Arguments: -c mocha --exit
+  Arguments: -c node ./bin/www
   Directory: /Users/mrtmvn/Documents/tamvanslab/platinum/platinum-ci
   Output:
   
